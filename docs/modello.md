@@ -1,4 +1,1 @@
-
-<figure markdown>
- (./images/python_interpreter.png)  
-</figure>
+<img src="assets/images/planning_model_uml.png">
