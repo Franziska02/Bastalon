@@ -1,0 +1,8 @@
+site_name: My Docs Bastion
+theme: 
+  name: material
+
+
+nav:
+  - Indice: index.md
+  - Descrizione del progetto: descrizione_del_progetto.md
