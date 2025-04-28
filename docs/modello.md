@@ -1,1 +1,1 @@
-<img src="assets/images/planning_model_uml.png">
+![](./assets/images/planning_model_uml.png)
