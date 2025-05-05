@@ -17,6 +17,7 @@ FLUSSO DI BASE
 6. se la percentuale di vita del nemico raggiunge lo 0 mostrare a schermo animazione di morte del nemico e conseguentemente eliminare il nemico dalla mappa di gioco
 7. alla morte del nemico vengo droppate in modo casuale armi e/o punti exp
 8. se eliminati tutti i nemici nella mappa avanzare al prossimo stage e scegliere spendendo punti exp un potenziamento alle statistiche di base 
+
 FLUSSI ALTERNATIVI
 1.se la percentuale di vita del personaggio raggiunge 0 mostrare animazione di morte del personaggio
 2.alla morte del personaggio riportare il personaggio al hub principale e concludere la run
