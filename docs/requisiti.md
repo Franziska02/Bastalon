@@ -22,7 +22,7 @@
 
 ### FR1: Controlli e movimento
 1. Il sistema deve visualizzare il mondo di gioco da una prospettiva 2D.
-2. Il sistema deve permettere al giocatore di controllare il proprio personaggio usando dei dispositivi di input (tasitera o joypad).
+2. Il sistema deve permettere al giocatore di controllare il proprio personaggio usando dei dispositivi di input (tastitera o joypad).
 3. Il sistema deve permettere al personaggio del giocatore di muoversi in maniera libera all'interno dell'area di gioco.
 4. Il sistema deve gestire le collisioni, e le conseguenti interazioni, con l'ambiente circostante e gli NPC.
 5. Il sistema deve permettere al personaggio di transitare tra diverse zone della mappa.
