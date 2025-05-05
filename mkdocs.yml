@@ -6,10 +6,13 @@ theme:
 nav:
   - Indice: index.md
   - Descrizione del progetto: descrizione_del_progetto.md
-  - Requisiti: requisiti.md
   - Validazione: validazione.md
   - Manutenzione: manutenzione.md
   - Planning model: modello.md
+  - User stories : user_stories.md
+  - Casi d'uso : casi_d'uso.md
+  - Requisiti: requisiti.md
+  - Diagramma delle attività : Diagramma_delle_attività.md  
   
 markdown_extensions:
   - admonition # notes make pretty
