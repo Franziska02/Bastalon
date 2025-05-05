@@ -1,6 +1,6 @@
 
 <pre class="mermaid">
-      graph LR
+    graph LR
     A@{ shape: circle, label: "Start" } --> B(Lancio Steam)
 	B --> C(Login Steam)
 	C --> D{Seleziono Bastalon}
