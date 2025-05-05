@@ -1,4 +1,7 @@
-
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 <pre class="mermaid">
     graph LR
     A@{ shape: circle, label: "Start" } --> B(Lancio Steam)
