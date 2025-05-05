@@ -8,3 +8,4 @@
 4. [Manutenzione effettuata al progetto nel tempo.](./manutenzione.md)
 5. [Casi d'uso](./casi_d'uso.md)
 6. [User Stories](./user_stories.md)
+7. [Diagramma delle attività](./Diagramma_delle_attività.md)
