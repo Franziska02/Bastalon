@@ -13,7 +13,8 @@ nav:
   - Casi d'uso : casi_d'uso.md
   - Requisiti: requisiti.md
   - Diagramma delle attività : Diagramma_delle_attività.md  
-  
+
+
 markdown_extensions:
   - admonition # notes make pretty
   - attr_list
