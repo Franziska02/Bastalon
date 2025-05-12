@@ -1,4 +1,5 @@
 CASI D'USO
+
 1. GESTIONE DI UN COMBATTIMENTO
 
 ATTORE: Giocatore
@@ -6,9 +7,11 @@ ATTORE: Giocatore
 OBBIETTIVO: abbattere i nemici presenti nel livello per ottenere armi e EXP
 
 INNESCO: al trigger di un comando dato dal giocatore il suo personaggio avrà un animazione di attacco che andrà a collidere con la hitbox del nemico
+
 PRECONDIZIONI: il giocatore affronta il livello; I nemici sono visibili sulla mappa.
 
 FLUSSO DI BASE
+
 1. personaggio nemico a schermo
 2. interazione tra il personaggio e il nemico a schermo
 3. collissione tra l'animazione del personaggio e quella del nemico
@@ -19,9 +22,10 @@ FLUSSO DI BASE
 8. se eliminati tutti i nemici nella mappa avanzare al prossimo stage e scegliere spendendo punti exp un potenziamento alle statistiche di base 
 
 FLUSSI ALTERNATIVI
-1.se la percentuale di vita del personaggio raggiunge 0 mostrare animazione di morte del personaggio
-2.alla morte del personaggio riportare il personaggio al hub principale e concludere la run
-3.se il giocatore esce dal gioco a metà livello salvare lo stato evella partita , una volta rientrato ricaricare il salvataggio da inizio livello 
+
+1. se la percentuale di vita del personaggio raggiunge 0 mostrare animazione di morte del personaggio
+2. alla morte del personaggio riportare il personaggio al hub principale e concludere la run
+3. se il giocatore esce dal gioco a metà livello salvare lo stato evella partita , una volta rientrato ricaricare il salvataggio da inizio livello 
 
 2. GESTIONE DELLA PROGRESSIONE
 
@@ -31,6 +35,7 @@ ATTORE: giocatore
 OBBIETTIVO: progressione nella storia
 
 INNESCO: completamento del livello con boss
+
 PRECONDIZIONI: aver superato i livelli precedenti; battere il boss.
 
 FLUSSO DI BASE
@@ -44,7 +49,8 @@ FLUSSO DI BASE
 7. sistema aggiorna lo stato della storia a quello attuale
 
 FLUSSI ALTERNATIVI
-1.interazione con l'npc senza avanzamento della storia comporta una ripetizione dei punti dal 4 al 6
+
+1. interazione con l'npc senza avanzamento della storia comporta una ripetizione dei punti dal 4 al 6
 
 3. GESTIONE ARSENALE
 
